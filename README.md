@@ -7,11 +7,11 @@ In this project, we aim to develop a user friendly website which can help user i
 
 ###🚀 Languages and Tools Used:
 
- HTML     
+ HTML , CSS , JAVASCRIPT ,BOOTSTRAP and CANVA . 
 
 
 **Contributors:
-Rishkish Mishra - Bussiness
-Jaiyshanu - Bussiness
-Ankush Verma - Website Development
-Amitabh Sharma - Website Development
+Rishkish Mishra - Bussiness.
+Jaiyshanu - Bussiness.
+Ankush Verma - Website Development.
+Amitabh Sharma - Website Development.
